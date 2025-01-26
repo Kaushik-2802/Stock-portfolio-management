@@ -1,0 +1,30 @@
+/* Home.css */
+.homepage {
+  background-color: #121212;
+  color: white;
+}
+
+.navbar {
+  background-color: #1c1c1c;
+}
+
+.hero {
+  background-color: #181818;
+  min-height: 100vh;
+}
+
+.hero-content {
+  padding: 40px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.hero h1,
+.hero p,
+.hero ul {
+  text-align: left;
+}
+
+.hero button {
+  margin-top: 20px;
+}
