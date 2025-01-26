@@ -1,1 +1,3 @@
 # Stock-portfolio-management
+
+The portfolio management system allows users to track their stock investments by storing their portfolio data, including stock symbols, quantities, and purchase prices. Users can fetch real-time stock data, including the current price, price changes, and percentage change, to monitor the performance of their investments. The system also features a watchlist where users can save stocks they are interested in, and easily buy stocks, which are then added to their portfolio. Additionally, the system provides the ability to remove stocks from the watchlist and fetch the user's portfolio data.
